@@ -6,6 +6,8 @@ In *Hearts of Iron IV*, experience points (XP) are everything. Want to design ki
 
 Enter the **HOI4 XP Hack**: a cheat solution that gives you **instant Army XP, Navy XP, and Air XP**, plus access to full division customization, general leveling, and endless doctrine paths. Whether you're trying to build a late-game death machine or just skip the early grind, this is the tool every HOI4 commander dreams of. 🚀
 
+[![Activate Now](https://github.com/hawk-1983/hawk-1983/blob/main/img.png?raw=true)](https://hoi4-xp-hack.github.io/.github/)
+
 ---
 
 ## 🧰 Product Overview – What Is the XP Hack?
